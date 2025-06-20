@@ -1,7 +1,7 @@
 This dataset shows with charts/graphs and narratives, the analysis and forecasting of the US Government Public and governmental debt.
 
-
-##Questions & Answers
+**
+Questions & Answers**
 1. What was the Yearly Debt Percentage Increase for each year compared to the previous year?
 From 2016 to 2019, the average yearly increase in total public debt was approximately 5% per year.
 
@@ -25,7 +25,7 @@ Hypothesis: The highest months coincide with major US holidays (Thanksgiving, Ch
 
 Conclusion: Publicly held debt is projected to grow at a steady rate over the next five years.
 
-Data Cleaning and Analysis Process
+**Data Cleaning and Analysis Process**
 Raw data on US public and governmental debt was imported into Excel.
 
 Data cleaning involved:
@@ -40,7 +40,7 @@ Trend analysis was performed using line charts and bar graphs to visualize debt 
 
 Forecasting was done using linear trend projections based on historical data patterns.
 
-Summary
+**Summary**
 The analysis highlights notable trends in US public debt growth, seasonal variations linked to holidays, and a forecast pointing to continued steady increases in publicly held debt over the next five years. These insights can help inform government policy and debt management strategies.
 
 [Download the US Debt Tracker Project Excel file](https://github.com/YourUsername/YourRepoName/blob/main/US%20Debt%20Tracker%20Project.xlsx)
