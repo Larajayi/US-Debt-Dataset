@@ -42,3 +42,8 @@ Forecasting was done using linear trend projections based on historical data pat
 
 Summary
 The analysis highlights notable trends in US public debt growth, seasonal variations linked to holidays, and a forecast pointing to continued steady increases in publicly held debt over the next five years. These insights can help inform government policy and debt management strategies.
+
+[Download the US Debt Tracker Project Excel file](https://github.com/YourUsername/YourRepoName/blob/main/US%20Debt%20Tracker%20Project.xlsx)
+![US Debt Tracker](https://github.com/user-attachments/assets/f7363e2c-5e10-4b62-bec8-67306b0f10b1)
+
+
